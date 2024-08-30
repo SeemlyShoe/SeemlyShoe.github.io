@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>上尉的博客</title><link>http://blog.thebag.us.kg</link><description>This my first blog</description><copyright>上尉的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179188651?s=400&amp;u=c1ac34a4384ba8e0066b0a61d7dfdcac966d8039&amp;v=4</url><title>avatar</title><link>http://blog.thebag.us.kg</link></image><lastBuildDate>Fri, 30 Aug 2024 12:53:19 +0000</lastBuildDate><managingEditor>上尉的博客</managingEditor><ttl>60</ttl><webMaster>上尉的博客</webMaster><item><title>Flux.1 无需部署！小白也能使用媲美Midjourney的顶级AI绘图模型 ，免费开源，生成无限制图片！</title><link>http://blog.thebag.us.kg/post/Flux.1%20-wu-xu-bu-shu-%EF%BC%81-xiao-bai-ye-neng-shi-yong-pi-mei-Midjourney-de-ding-ji-AI-hui-tu-mo-xing-%20%EF%BC%8C-mian-fei-kai-yuan-%EF%BC%8C-sheng-cheng-wu-xian-zhi-tu-pian-%EF%BC%81.html</link><description>## **样式**&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>上尉的博客</title><link>http://blog.thebag.us.kg</link><description>This my first blog</description><copyright>上尉的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179188651?s=400&amp;u=c1ac34a4384ba8e0066b0a61d7dfdcac966d8039&amp;v=4</url><title>avatar</title><link>http://blog.thebag.us.kg</link></image><lastBuildDate>Fri, 30 Aug 2024 12:58:16 +0000</lastBuildDate><managingEditor>上尉的博客</managingEditor><ttl>60</ttl><webMaster>上尉的博客</webMaster><item><title>Flux.1 无需部署！小白也能使用媲美Midjourney的顶级AI绘图模型 ，免费开源，生成无限制图片！</title><link>http://blog.thebag.us.kg/post/Flux.1%20-wu-xu-bu-shu-%EF%BC%81-xiao-bai-ye-neng-shi-yong-pi-mei-Midjourney-de-ding-ji-AI-hui-tu-mo-xing-%20%EF%BC%8C-mian-fei-kai-yuan-%EF%BC%8C-sheng-cheng-wu-xian-zhi-tu-pian-%EF%BC%81.html</link><description>&#13;
+## **样式**&#13;
+&#13;
 `Gmeek-html&lt;img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUQPN1ByLA9vZMjDYvyLWo36WRNbnBkNxlETqz9BnvBv-ikCcimB0azF91MGWY8EfqaNG1IQ7XbiPB6SmznX0O0Og1ipzDDcF-No_GN0-PbiaCcYCktG7ISYQxvjA8EgTdzI1RuIWY9K_w9JHkgVKyZzBMWRJRnXCij-0-WkVZmhpLpKL_WDiuDi3xEv2d/s763/360%E6%88%AA%E5%9B%BE20240822103455.png'&gt;`&#13;
 &#13;
 ## **特色**&#13;
@@ -8,16 +10,18 @@
 &#13;
 ## **网站地址**&#13;
 &gt; 官方网站  [【点击直达】](https://blackforestlabs.ai/#get-flux 'Official Website')&#13;
+&#13;
 &gt; FLUX.1  &#13;
-&gt;&gt; 网站使用  &#13;
-&gt;&gt;&gt; [【FLUX.1 [schnell]】](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell 'schnell')&#13;
-&gt;&gt;&gt; [【FLUX.1 [dev]】](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev 'dev')&#13;
-&gt;&gt;&gt; [【FLUX.1 [merged]】](https://huggingface.co/spaces/multimodalart/FLUX.1-merged 'merged')&#13;
-&gt;&gt;&gt; [【FLUX1】](https://flux1.art/zh 'flux1')&#13;
-&gt;&gt;&gt; [【Fal.ai】](https://fal.ai/models/fal-ai/flux/schnell 'fal.ai')&#13;
-&gt;&gt; API&#13;
+&gt;&gt; [【FLUX.1 [schnell]】](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell 'schnell')&#13;
+&gt;&gt; [【FLUX.1 [dev]】](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev 'dev')&#13;
+&gt;&gt; [【FLUX.1 [merged]】](https://huggingface.co/spaces/multimodalart/FLUX.1-merged 'merged')&#13;
+&gt;&gt; [【FLUX1】](https://flux1.art/zh 'flux1')&#13;
+&gt;&gt; [【Fal.ai】](https://fal.ai/models/fal-ai/flux/schnell 'fal.ai')&#13;
+&#13;
+&gt; API&#13;
 &gt;&gt;&gt; [https://api-flux1.api4gpt.com/?prompt=](url)&#13;
-&gt;&gt; 提示词生成网站&#13;
+&#13;
+&gt; 提示词生成网站&#13;
 &gt;&gt;&gt; [【点击直达】(需要注册账号)](https://civitai.com 'civitai')&#13;
 。</description><guid isPermaLink="true">http://blog.thebag.us.kg/post/Flux.1%20-wu-xu-bu-shu-%EF%BC%81-xiao-bai-ye-neng-shi-yong-pi-mei-Midjourney-de-ding-ji-AI-hui-tu-mo-xing-%20%EF%BC%8C-mian-fei-kai-yuan-%EF%BC%8C-sheng-cheng-wu-xian-zhi-tu-pian-%EF%BC%81.html</guid><pubDate>Fri, 30 Aug 2024 12:52:56 +0000</pubDate></item><item><title>简单好用的DDOS脚本</title><link>http://blog.thebag.us.kg/post/jian-dan-hao-yong-de-DDOS-jiao-ben.html</link><description>## **项目地址**&#13;
 [https://github.com/HyukIsBack/KARMA-DDoS](url)&#13;
