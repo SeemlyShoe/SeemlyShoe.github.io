@@ -1,4 +1,3 @@
-
 ## **样式**
 
 `Gmeek-html<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUQPN1ByLA9vZMjDYvyLWo36WRNbnBkNxlETqz9BnvBv-ikCcimB0azF91MGWY8EfqaNG1IQ7XbiPB6SmznX0O0Og1ipzDDcF-No_GN0-PbiaCcYCktG7ISYQxvjA8EgTdzI1RuIWY9K_w9JHkgVKyZzBMWRJRnXCij-0-WkVZmhpLpKL_WDiuDi3xEv2d/s763/360%E6%88%AA%E5%9B%BE20240822103455.png">`
@@ -18,7 +17,7 @@
 >> [【Fal.ai】](https://fal.ai/models/fal-ai/flux/schnell "fal.ai")
 
 > API
->>> [https://api-flux1.api4gpt.com/?prompt=](url)
+>> [https://api-flux1.api4gpt.com/?prompt=](url)
 
 > 提示词生成网站
->>> [【点击直达】(需要注册账号)](https://civitai.com "civitai")
+>> [【点击直达】(需要注册账号)](https://civitai.com "civitai")
